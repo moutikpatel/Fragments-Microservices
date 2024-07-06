@@ -1,0 +1,16 @@
+.github/
+.vscode/
+coverage/
+node_modules/
+tests/
+!tests/.htpasswd
+.env
+.eslintrc.js
+.git/
+.gitignore
+.prettier*
+jest*
+*.md
+# Include the license so we don't break the license/copyright
+!LICENSE.md
+minio/
